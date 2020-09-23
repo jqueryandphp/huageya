@@ -896,20 +896,20 @@ export const Content50DataSource = {
           content: { children: '芳华教育' },
         },
       },
-      {
-        name: 'block8',
-        className: 'block',
-        md: 6,
-        xs: 24,
-        children: {
-          wrapper: { className: 'content5-block-content' },
-          img: {
-            children:
-              host+'/public/img/joined_logo/WechatIMG68.png',
-          },
-          content: { children: 'WEIZHI' },
-        },
-      },
+      // {
+      //   name: 'block8',
+      //   className: 'block',
+      //   md: 6,
+      //   xs: 24,
+      //   children: {
+      //     wrapper: { className: 'content5-block-content' },
+      //     img: {
+      //       children:
+      //         host+'/public/img/joined_logo/WechatIMG68.png',
+      //     },
+      //     content: { children: 'WEIZHI' },
+      //   },
+      // },
       {
         name: 'block27',
         className: 'block',
@@ -1050,20 +1050,20 @@ export const Content50DataSource = {
       //     content: { children: '钓鱼网' },
       //   },
       // },
-      // {
-      //   name: 'block18',
-      //   className: 'block',
-      //   md: 6,
-      //   xs: 24,
-      //   children: {
-      //     wrapper: { className: 'content5-block-content' },
-      //     img: {
-      //       children:
-      //         host+'/public/img/joined_logo/rzw.png',
-      //     },
-      //     content: { children: '融众网' },
-      //   },
-      // },
+      {
+        name: 'block18',
+        className: 'block',
+        md: 6,
+        xs: 24,
+        children: {
+          wrapper: { className: 'content5-block-content' },
+          img: {
+            children:
+              host+'/public/img/joined_logo/rzw.png',
+          },
+          content: { children: '融众网' },
+        },
+      },
       // {
       //   name: 'block19',
       //   className: 'block',
